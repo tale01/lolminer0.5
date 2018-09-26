@@ -1,0 +1,2 @@
+# myminer
+none
