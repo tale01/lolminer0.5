@@ -1,2 +1,2 @@
 # myminer
-none
+use for wget command linux ourself
